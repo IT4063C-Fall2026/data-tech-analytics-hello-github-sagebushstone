@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "data-tech-analytics"
+assignment: "hello-github"
+owner:
+  username: "sagebushstone"
+  id: 67807373
+  accepted_at: "2026-08-25T18:50:52Z"
+source:
+  owner: "IT4063C-Fall2026"
+  owner_id: 320344006
+  repo: "hello-github"
+  branch: "main"
