@@ -24,23 +24,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to use GitHub commands. I needed to remind myself of the command to push to the remote.
 
 **I struggled with:** (repeat as needed)
-- .
+- Reading directions, apparently. I accidentally committed the change to intro.md with my info put in before I committed it unmodified. I attempted to rectify this by making another commit that reset intro.md to what it should have been, then making a new commit with my details.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Nothing at the moment. I think this makes sense.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
-
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
+Though I messed up slightly by misunderstanding the directions I was able to overcome it and still showed understanding of the fundamental git concepts.
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- I referred to the git documentation for the command to push. https://git-scm.com/docs/git-push
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- None. I worked independently.
 
 ---
 ## Copyrights and License
